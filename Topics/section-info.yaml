@@ -1,0 +1,12 @@
+content:
+- Lambda expressions
+- Command
+- LocalDate
+- Threads as objects
+- Custom threads
+- Thread management
+- The Set interface
+- The Map interface
+- Default methods
+- Thread synchronization
+- Executors

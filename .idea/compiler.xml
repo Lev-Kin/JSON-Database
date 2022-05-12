@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="JSON_Database.JSON_Database-task-build-classes-java.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task-build-reports-tests.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task-build-test-results.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task-build-tmp.main" target="11" />
+      <module name="JSON_Database.JSON_Database-task.main" target="11" />
+      <module name="JSON_Database.Topics-Command-Forex_Broker.main" target="11" />
+      <module name="JSON_Database.Topics-Command-Participants.main" target="11" />
+      <module name="JSON_Database.Topics-Command-Real-World_examples.main" target="11" />
+      <module name="JSON_Database.Topics-Command-Remote_Controller.main" target="11" />
+      <module name="JSON_Database.Topics-Command-Stock_Broker.main" target="11" />
+      <module name="JSON_Database.Topics-Command-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-Command-Type_of_Design_Pattern.main" target="11" />
+      <module name="JSON_Database.Topics-Command-Undo_command.main" target="11" />
+      <module name="JSON_Database.Topics-Command-Use cases.main" target="11" />
+      <module name="JSON_Database.Topics-Custom_threads-Message_notifier_as_a_thread.main" target="11" />
+      <module name="JSON_Database.Topics-Custom_threads-Statements.main" target="11" />
+      <module name="JSON_Database.Topics-Custom_threads-Statements_about_starting_threads.main" target="11" />
+      <module name="JSON_Database.Topics-Custom_threads-The_difference_between_start_and_run.main" target="11" />
+      <module name="JSON_Database.Topics-Custom_threads-The_order_of_lines.main" target="11" />
+      <module name="JSON_Database.Topics-Custom_threads-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-Custom_threads-When_will_a_thread_start_performing_a_task.main" target="11" />
+      <module name="JSON_Database.Topics-Custom_threads-Writing_a_thread_for_printing_numbers.main" target="11" />
+      <module name="JSON_Database.Topics-Default_methods-Add_new_default_method.main" target="11" />
+      <module name="JSON_Database.Topics-Default_methods-Default_method's_body.main" target="11" />
+      <module name="JSON_Database.Topics-Default_methods-Diamond_problem.main" target="11" />
+      <module name="JSON_Database.Topics-Default_methods-Resolve_a_diamond_problem.main" target="11" />
+      <module name="JSON_Database.Topics-Default_methods-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-Default_methods-What_is_the_reason_for_default_methods.main" target="11" />
+      <module name="JSON_Database.Topics-Executors-Asynchronous_email_sending.main" target="11" />
+      <module name="JSON_Database.Topics-Executors-Check_whether_a_number_is_prime.main" target="11" />
+      <module name="JSON_Database.Topics-Executors-Messaging.main" target="11" />
+      <module name="JSON_Database.Topics-Executors-Supplying_a_task.main" target="11" />
+      <module name="JSON_Database.Topics-Executors-The_order_of_lines_in_output.main" target="11" />
+      <module name="JSON_Database.Topics-Executors-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-Lambda_expressions-Apply_function_to_all_elements.main" target="11" />
+      <module name="JSON_Database.Topics-Lambda_expressions-Creating_a_closure.main" target="11" />
+      <module name="JSON_Database.Topics-Lambda_expressions-Expression_closure.main" target="11" />
+      <module name="JSON_Database.Topics-Lambda_expressions-Expressions.main" target="11" />
+      <module name="JSON_Database.Topics-Lambda_expressions-Higher-order_functions.main" target="11" />
+      <module name="JSON_Database.Topics-Lambda_expressions-Max_of_two_integers.main" target="11" />
+      <module name="JSON_Database.Topics-Lambda_expressions-Next_even_number.main" target="11" />
+      <module name="JSON_Database.Topics-Lambda_expressions-Parts_of code.main" target="11" />
+      <module name="JSON_Database.Topics-Lambda_expressions-Statements.main" target="11" />
+      <module name="JSON_Database.Topics-Lambda_expressions-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-LocalDate-10_days_before.main" target="11" />
+      <module name="JSON_Database.Topics-LocalDate-Convert_numbers_to_days.main" target="11" />
+      <module name="JSON_Database.Topics-LocalDate-LocalDate_class.main" target="11" />
+      <module name="JSON_Database.Topics-LocalDate-Print_dates_of_a_year_with_an_offset.main" target="11" />
+      <module name="JSON_Database.Topics-LocalDate-The_first_day_of_a_month_or_not.main" target="11" />
+      <module name="JSON_Database.Topics-LocalDate-The_n-th_day_from_the_end_of_a_month.main" target="11" />
+      <module name="JSON_Database.Topics-LocalDate-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-LocalDate-Working_with_dates.main" target="11" />
+      <module name="JSON_Database.Topics-The_Map_interface-Basics_of_Maps.main" target="11" />
+      <module name="JSON_Database.Topics-The_Map_interface-Creating_a_map.main" target="11" />
+      <module name="JSON_Database.Topics-The_Map_interface-Determine_values_of_variables.main" target="11" />
+      <module name="JSON_Database.Topics-The_Map_interface-Displaying_pairs.main" target="11" />
+      <module name="JSON_Database.Topics-The_Map_interface-Existing_implementations.main" target="11" />
+      <module name="JSON_Database.Topics-The_Map_interface-Modifying_a_map.main" target="11" />
+      <module name="JSON_Database.Topics-The_Map_interface-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-The_Set_interface-Elements_of_a_set.main" target="11" />
+      <module name="JSON_Database.Topics-The_Set_interface-Output_elements.main" target="11" />
+      <module name="JSON_Database.Topics-The_Set_interface-Symmetric_difference.main" target="11" />
+      <module name="JSON_Database.Topics-The_Set_interface-The_size_of_a_set.main" target="11" />
+      <module name="JSON_Database.Topics-The_Set_interface-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_management-Calculate_the_number_of_distinct_characters.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_management-Join.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_management-Ordering_the_execution_of_threads.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_management-Sleep.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_management-The_order_of_lines.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_management-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_management-VeganPizza.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_management-Workers_in_programs.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_synchronization-Countdown_counter.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_synchronization-Multithreaded_counter.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_synchronization-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_synchronization-Thread_synchronization_in_Java.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_synchronization-Two_methods,_two_statements.main" target="11" />
+      <module name="JSON_Database.Topics-Thread_synchronization-What_is_wrong.main" target="11" />
+      <module name="JSON_Database.Topics-Threads_as_objects-Getting_a_current_thread.main" target="11" />
+      <module name="JSON_Database.Topics-Threads_as_objects-Getting_current_thread_info.main" target="11" />
+      <module name="JSON_Database.Topics-Threads_as_objects-The_implementation_of_threads.main" target="11" />
+      <module name="JSON_Database.Topics-Threads_as_objects-Theory.main" target="11" />
+      <module name="JSON_Database.Topics-Threads_as_objects-Thread_name.main" target="11" />
+      <module name="JSON_Database.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

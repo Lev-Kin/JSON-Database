@@ -1,0 +1,133 @@
+# Project exclude paths
+/.gradle/
+/JSON Database/task/build/
+/JSON Database/task/out/
+/JSON Database/task/out/production/classes/
+/Topics/Command/Stock Broker/out/
+/Topics/Command/Stock Broker/out/production/classes/
+/Topics/Command/Theory/build/
+/Topics/Command/Theory/out/
+/Topics/Command/Theory/out/production/classes/
+/Topics/Command/Type of Design Pattern/out/
+/Topics/Command/Type of Design Pattern/out/production/classes/
+/Topics/Command/Undo command/out/
+/Topics/Command/Undo command/out/production/classes/
+/Topics/Command/Use cases/out/
+/Topics/Command/Use cases/out/production/classes/
+/Topics/Custom threads/Message notifier as a thread/out/
+/Topics/Custom threads/Message notifier as a thread/out/production/classes/
+/Topics/Custom threads/Statements/out/
+/Topics/Custom threads/Statements/out/production/classes/
+/Topics/Custom threads/Statements about starting threads/out/
+/Topics/Custom threads/Statements about starting threads/out/production/classes/
+/Topics/Custom threads/The difference between start and run/out/
+/Topics/Custom threads/The difference between start and run/out/production/classes/
+/Topics/Custom threads/The order of lines/out/
+/Topics/Custom threads/The order of lines/out/production/classes/
+/Topics/Custom threads/Theory/out/
+/Topics/Custom threads/Theory/out/production/classes/
+/Topics/Custom threads/When will a thread start performing a task/out/
+/Topics/Custom threads/When will a thread start performing a task/out/production/classes/
+/Topics/Custom threads/Writing a thread for printing numbers/out/
+/Topics/Custom threads/Writing a thread for printing numbers/out/production/classes/
+/Topics/Default methods/Add new default method/out/
+/Topics/Default methods/Add new default method/out/production/classes/
+/Topics/Default methods/Default method's body/out/
+/Topics/Default methods/Default method's body/out/production/classes/
+/Topics/Default methods/Diamond problem/out/
+/Topics/Default methods/Diamond problem/out/production/classes/
+/Topics/Default methods/Resolve a diamond problem/out/
+/Topics/Default methods/Resolve a diamond problem/out/production/classes/
+/Topics/Default methods/Theory/build/
+/Topics/Default methods/Theory/out/
+/Topics/Default methods/Theory/out/production/classes/
+/Topics/Default methods/What is the reason for default methods/out/
+/Topics/Default methods/What is the reason for default methods/out/production/classes/
+/Topics/Lambda expressions/Apply function to all elements/out/
+/Topics/Lambda expressions/Apply function to all elements/out/production/classes/
+/Topics/Lambda expressions/Creating a closure/out/
+/Topics/Lambda expressions/Creating a closure/out/production/classes/
+/Topics/Lambda expressions/Expression closure/out/
+/Topics/Lambda expressions/Expression closure/out/production/classes/
+/Topics/Lambda expressions/Expressions/out/
+/Topics/Lambda expressions/Expressions/out/production/classes/
+/Topics/Lambda expressions/Higher-order functions/out/
+/Topics/Lambda expressions/Higher-order functions/out/production/classes/
+/Topics/Lambda expressions/Max of two integers/out/
+/Topics/Lambda expressions/Max of two integers/out/production/classes/
+/Topics/Lambda expressions/Next even number/out/
+/Topics/Lambda expressions/Next even number/out/production/classes/
+/Topics/Lambda expressions/Parts of code/out/
+/Topics/Lambda expressions/Parts of code/out/production/classes/
+/Topics/Lambda expressions/Statements/out/
+/Topics/Lambda expressions/Statements/out/production/classes/
+/Topics/Lambda expressions/Theory/build/
+/Topics/Lambda expressions/Theory/out/
+/Topics/Lambda expressions/Theory/out/production/classes/
+/Topics/LocalDate/10 days before/out/
+/Topics/LocalDate/10 days before/out/production/classes/
+/Topics/LocalDate/Convert numbers to days/out/
+/Topics/LocalDate/Convert numbers to days/out/production/classes/
+/Topics/LocalDate/LocalDate class/out/
+/Topics/LocalDate/LocalDate class/out/production/classes/
+/Topics/LocalDate/Print dates of a year with an offset/out/
+/Topics/LocalDate/Print dates of a year with an offset/out/production/classes/
+/Topics/LocalDate/The first day of a month or not/out/
+/Topics/LocalDate/The first day of a month or not/out/production/classes/
+/Topics/LocalDate/The n-th day from the end of a month/out/
+/Topics/LocalDate/The n-th day from the end of a month/out/production/classes/
+/Topics/LocalDate/Theory/out/
+/Topics/LocalDate/Theory/out/production/classes/
+/Topics/LocalDate/Working with dates/out/
+/Topics/LocalDate/Working with dates/out/production/classes/
+/Topics/The Map interface/Basics of Maps/out/
+/Topics/The Map interface/Basics of Maps/out/production/classes/
+/Topics/The Map interface/Creating a map/out/
+/Topics/The Map interface/Creating a map/out/production/classes/
+/Topics/The Map interface/Determine values of variables/out/
+/Topics/The Map interface/Determine values of variables/out/production/classes/
+/Topics/The Map interface/Displaying pairs/out/
+/Topics/The Map interface/Displaying pairs/out/production/classes/
+/Topics/The Map interface/Existing implementations/out/
+/Topics/The Map interface/Existing implementations/out/production/classes/
+/Topics/The Map interface/Modifying a map/out/
+/Topics/The Map interface/Modifying a map/out/production/classes/
+/Topics/The Map interface/Theory/build/
+/Topics/The Map interface/Theory/out/
+/Topics/The Map interface/Theory/out/production/classes/
+/Topics/The Set interface/Elements of a set/out/
+/Topics/The Set interface/Elements of a set/out/production/classes/
+/Topics/The Set interface/Output elements/out/
+/Topics/The Set interface/Output elements/out/production/classes/
+/Topics/The Set interface/Symmetric difference/out/
+/Topics/The Set interface/Symmetric difference/out/production/classes/
+/Topics/The Set interface/The size of a set/out/
+/Topics/The Set interface/The size of a set/out/production/classes/
+/Topics/The Set interface/Theory/out/
+/Topics/The Set interface/Theory/out/production/classes/
+/Topics/Thread management/Calculate the number of distinct characters/out/
+/Topics/Thread management/Calculate the number of distinct characters/out/production/classes/
+/Topics/Thread management/Join/out/
+/Topics/Thread management/Join/out/production/classes/
+/Topics/Thread management/Ordering the execution of threads/out/
+/Topics/Thread management/Ordering the execution of threads/out/production/classes/
+/Topics/Thread management/Sleep/out/
+/Topics/Thread management/Sleep/out/production/classes/
+/Topics/Thread management/The order of lines/out/
+/Topics/Thread management/The order of lines/out/production/classes/
+/Topics/Thread management/Theory/out/
+/Topics/Thread management/Theory/out/production/classes/
+/Topics/Thread management/VeganPizza/out/
+/Topics/Thread management/VeganPizza/out/production/classes/
+/Topics/Thread management/Workers in programs/out/
+/Topics/Thread management/Workers in programs/out/production/classes/
+/Topics/Threads as objects/Getting a current thread/out/
+/Topics/Threads as objects/Getting a current thread/out/production/classes/
+/Topics/Threads as objects/Getting current thread info/out/
+/Topics/Threads as objects/Getting current thread info/out/production/classes/
+/Topics/Threads as objects/The implementation of threads/out/
+/Topics/Threads as objects/The implementation of threads/out/production/classes/
+/Topics/Threads as objects/Theory/out/
+/Topics/Threads as objects/Theory/out/production/classes/
+/Topics/Threads as objects/Thread name/out/
+/Topics/Threads as objects/Thread name/out/production/classes/
